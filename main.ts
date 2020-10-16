@@ -139,5 +139,5 @@ scene.setBackgroundImage(img`
     cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
     cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
     `)
-Yellow_Crewmate.say(":)")
+Yellow_Crewmate.say("GitHub is Awesome")
 Yellow_Crewmate.setFlag(SpriteFlag.StayInScreen, true)
